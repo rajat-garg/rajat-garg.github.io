@@ -1,21 +1,39 @@
 # skills section data
-- name: Python
-  percentage: 85
-
 - name: HTML/CSS
-  percentage: 65
+  percentage: 88
 
-- name: Linux/Shell
-  percentage: 75
+- name: Bootstrap
+  precentage: 92
 
-- name: jQuery
-  percentage: 85
+- name: Javascript
+  percentage: 45
 
 - name: AngularJS
-  percentage: 80
+  percentage: 10
 
-- name: Ionic
-  percentage: 70
+- name: jQuery
+  percentage: 45
 
-- name: Vuejs
-  percentage: 65
+- name: Java
+  percentage: 40
+
+- name: Git
+  percentage: 30
+
+- name: C/C++
+  percentage: 75
+
+- name: Vagrant
+  precentage: 12
+
+- name: Linux/Ubuntu
+  precentage: 15
+
+- name: Python
+  precentage: 10
+
+- name: Django
+  precentage: 8
+
+- name: MySQL
+  precentage: 60 
