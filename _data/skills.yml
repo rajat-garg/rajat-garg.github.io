@@ -3,7 +3,7 @@
   percentage: 88
 
 - name: Bootstrap
-  precentage: 92
+  percentage: 92
 
 - name: Javascript
   percentage: 45
@@ -20,20 +20,20 @@
 - name: Git
   percentage: 30
 
-- name: C/C++
+- name: C/CPP
   percentage: 75
 
 - name: Vagrant
-  precentage: 12
+  percentage: 12
 
 - name: Linux/Ubuntu
-  precentage: 15
+  percentage: 15
 
 - name: Python
-  precentage: 10
+  percentage: 10
 
 - name: Django
-  precentage: 8
+  percentage: 8
 
 - name: MySQL
-  precentage: 60 
+  percentage: 60 
