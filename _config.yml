@@ -9,17 +9,19 @@ url: 'http://www.jack003.com'
 # url: "http://127.0.0.1:4000"
 img_path: '/static/img/blog'
 
-# author
+# author Changes here will reflect in the About Me data i.e. (icon-urls,Profile Pic, Icons, Intro Part)
 author:
   name: 'Rajat'
   first_name: 'Rajat'
   last_name: 'Garg'
-  cv: 'http://cv.jack003.com'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
+  cv: ''
+  email: 'rg6693@gmail.com'
+  facebook_username: 'RajatGargOfficial'
+  twitter_username: 'RajatTheVampire'
   github_username: 'rajat-garg'
+  stackoverflow_username: 'rajat-garg'
   avatar: '/static/img/landing/Jack.jpg'
-  desc: 'I am a FrontEnd Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
+  desc: 'I am a Front End Developer, love to write things, foodie and wanderlust. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
 
 # comment
 changyan:
